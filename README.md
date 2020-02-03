@@ -37,7 +37,7 @@ You will need to edit the script above to match your account on [SyLabs.io](http
 If you have the client installed and cannot build the image locally nor remotely, simply run
 
 ```
-singularity pull library://icaoberg/default/genometools
+singularity pull library://icaoberg/default/genometools:v1.6.0
 ```
 
 ## Disclaimer
