@@ -1,6 +1,6 @@
 # singularity-genometools
 [![Hosted](https://img.shields.io/badge/hosted-sylabs.io-green.svg)](https://cloud.sylabs.io/library/icaoberg/default/genometools)
-![Release](https://img.shields.io/badge/release-v2.29.2-green.svg)
+![Release](https://img.shields.io/badge/release-v1.6.0-green.svg)
 [![Build Status](https://travis-ci.org/icaoberg/singularity-genometools.svg?branch=master)](https://travis-ci.org/icaoberg/singularity-genometools)
 [![GitHub issues](https://img.shields.io/github/issues/icaoberg/singularity-genometools.svg)](https://github.com/icaoberg/singularity-genometools/issues)
 [![GitHub forks](https://img.shields.io/github/forks/icaoberg/singularity-genometools.svg)](https://github.com/icaoberg/singularity-genometools/network)
