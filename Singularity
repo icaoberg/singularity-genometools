@@ -5,9 +5,9 @@ IncludeCmd: yes
 
 %labels
     AUTHOR icaoberg
-    EMAIL icaoberg@alumni.cmu.edu
-    WEBSITE http://linus.cbd.cs.cmu.edu
-    VERSION 2.29.2
+    EMAIL icaoberg@andrew.cmu.edu
+    WEBSITE http://www.andrew.cmu.edu/~icaoberg
+    VERSION 1.6.0
 
 %environment
     export GT_MEM_BOOKKEEPING=on gt
